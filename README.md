@@ -12,12 +12,12 @@ Berikut merupakan tahapan yang telah saya lakukan
 Pada tahap ini saya memperdalam business model dari Airbnb, menentukan masalah, menetapkan tujuan, serta menentukan pendekatan untuk menganalisis data.
 
 ## Data Understanding
-Proses yang saya lakukan pada tahap ini adalah mengecek kualitas data mulai dari tipe data, missing values, melihat statistika deskriptif, dan mengecek outlier dan distribusi data.
+Proses yang saya lakukan pada tahap ini adalah mengecek kualitas data mulai dari tipe data, missing values, melihat statistika deskriptif, dan mengecek outlier serta distribusi data.
 
 ## Data Preparation
-Tahap ini saya memanipulasi data untuk meningkatkan kualitas data serta untuk mempermudah nanti saat dianalisis.
+Tahap ini saya memanipulasi data berdasarkan temuan untuk meningkatkan kualitas data serta mempermudah nantinya saat data dianalisis.
 
 ## Data Analysis
 Tahap ini saya melakukan analisis data berdasarkan pendekatan yang saya tetapkan. Setelah saya menganalisis data saya merangkum insight yang ditemukan serta memberikan rekomendasi atas insight tersebut
 
-Untuk melihat lengkapnya silahkan buka notebooknya
+Lengkapnya dapat dilihat pada notebook
