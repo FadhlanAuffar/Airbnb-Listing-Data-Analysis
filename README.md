@@ -3,7 +3,7 @@ Capstone project ini bertujuan untuk melakukan data analisis terhadap dataset Ai
 
 Untuk melihat hasil Tableau [link](https://public.tableau.com/app/profile/fadhlan.auffar/viz/CapstoneProjectM2Fadhlan/CapstoneProjectStory?publish=yes)
 
-Untuuk melihat hasil presentasi [link](https://drive.google.com/drive/folders/1SxeOOUvlzRKSrtgGfH2vB0ogUR_-js4f?usp=sharing)
+Untuk melihat hasil presentasi [link](https://drive.google.com/drive/folders/1SxeOOUvlzRKSrtgGfH2vB0ogUR_-js4f?usp=sharing)
 
 # Tahapan Data Analisis
 Berikut merupakan tahapan yang telah saya lakukan
