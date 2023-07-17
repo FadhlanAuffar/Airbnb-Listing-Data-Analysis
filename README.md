@@ -1,9 +1,9 @@
 # Capstone-Project-M2
 Capstone project ini bertujuan untuk melakukan data analisis terhadap dataset Airbnb Listing Bangkok
 
-Story Tableau -> [link](https://public.tableau.com/app/profile/fadhlan.auffar/viz/CapstoneProjectM2Fadhlan/CapstoneProjectStory?publish=yes)
-Presentasi -> [link](https://drive.google.com/drive/folders/1SxeOOUvlzRKSrtgGfH2vB0ogUR_-js4f?usp=sharing)
-Distrik Bangkok Geojson [link](https://github.com/pcrete/gsvloader-demo/blob/master/geojson/Bangkok-districts.geojson)
+- Story Tableau -> [link](https://public.tableau.com/app/profile/fadhlan.auffar/viz/CapstoneProjectM2Fadhlan/CapstoneProjectStory?publish=yes)
+- Presentasi -> [link](https://drive.google.com/drive/folders/1SxeOOUvlzRKSrtgGfH2vB0ogUR_-js4f?usp=sharing)
+- Distrik Bangkok Geojson -> [link](https://github.com/pcrete/gsvloader-demo/blob/master/geojson/Bangkok-districts.geojson)
 
 # Business Understanding:
 Pendapatan Airbnb berasal dari geust fee serta host fee. Bisnis model yang dimiliki adalah asset-light business model, dimana tidak memiliki asset yang benyak, melainkan mendapatkan asset dari kerjasama dengan host
