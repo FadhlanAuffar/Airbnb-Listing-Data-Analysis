@@ -39,10 +39,10 @@ Setiap baris data merepresentasikan data hunian yang di-listing oleh host
 1. number_of_reviews_ltm = jumlah review dalam 12 bulan terakhir
 
 # Data Preparation
-Proses yang dilakukan adalah memanipulasi data sehingga kualitas data menjadi lebih baik
+Proses yang dilakukan adalah memanipulasi data sehingga kualitas data menjadi lebih baik. Beberapa proses yang dilakukan adalah menanggulangi missing value dengan default value serta mengubah tipe data.
 
 # Data Analysis
-Menganilis data dengan beberapa domain pendekatan, diantaranya adalah wilayah, harga, dan jumlah listing
+Menganilis data dengan beberapa domain pendekatan, diantaranya adalah wilayah, harga, dan jumlah listing. Memvisualisasikan data, serta menarik kesimpulan berdasarkan temuan analisis.
 
 # Insight 
 Salah satu insight yang ditemukan adalah bahwa sebaran hunian Airbnb hanya cenderung terpusan pada wilayah Bangkok Tengah
