@@ -12,7 +12,7 @@ Pendapatan Airbnb berasal dari geust fee serta host fee. Bisnis model yang dimil
 
 - Tujuan: Mendapatkan insight host behaviour berdasarkan data hunian listing, sehingga dapat dipergunakan untuk membuat program yang lebih sesuai dengan karakteristik untuk bisa mempertahankan host atau mendapatkan potential host
 
-- Bagaimana karakteristik host yang paling sesuai untuk dibuatkan program? Sehingga memnimilasir penggunaan sumber daya yang dimiliki.
+- Bagaimana karakteristik host yang paling sesuai untuk dibuatkan program? Sehingga meminimalisr penggunaan sumber daya yang dimiliki.
 
 # Data Understanding
 Setiap baris data merepresentasikan data hunian yang di-listing oleh host
@@ -45,7 +45,7 @@ Proses yang dilakukan adalah memanipulasi data sehingga kualitas data menjadi le
 Menganilis data dengan beberapa domain pendekatan, diantaranya adalah wilayah, harga, dan jumlah listing. Memvisualisasikan data, serta menarik kesimpulan berdasarkan temuan analisis.
 
 # Insight 
-Salah satu insight yang ditemukan adalah bahwa sebaran hunian Airbnb hanya cenderung terpusan pada wilayah Bangkok Tengah
+Salah satu insight yang ditemukan adalah bahwa sebaran hunian Airbnb hanya cenderung terpusat pada wilayah Bangkok Tengah
 
 # Rekomendasi 
 Dapat memperoleh potential host pada distrik di wilayah pinggiran bangkok karena daya saing yang masih rendah dan untuk membuat pernyebaran hunian lebih melebar.
