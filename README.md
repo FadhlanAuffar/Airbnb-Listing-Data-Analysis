@@ -1,4 +1,4 @@
-# Capstone-Project-M2
+# Airbnb Listing Data Analysis
 Capstone project ini bertujuan untuk melakukan data analisis terhadap dataset Airbnb Listing Bangkok
 
 - Story Tableau -> [link](https://public.tableau.com/app/profile/fadhlan.auffar/viz/CapstoneProjectM2Fadhlan/CapstoneProjectStory?publish=yes)
