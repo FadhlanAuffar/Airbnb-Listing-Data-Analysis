@@ -1,11 +1,12 @@
 ![DALL·E 2024-08-27 21 58 40 - A dynamic and vibrant night scene in the heart of Bangkok city, captured in ultra-high 4K detail  The street is bustling with activity, filled with a ](https://github.com/user-attachments/assets/de12406c-3d25-4651-be7f-3e1c10f29700)
 
 Technical Report -> [link](https://drive.google.com/file/d/1qpXoxjIiZv7kz7A_IWCw9HAVcY16zq8h/view?usp=sharing)
-General Report -> [link](https://drive.google.com/file/d/1b8rNF1sc88NYUs8VNwSm-y3sitwwIji3/view?usp=sharing)
-Presentation Slide -> [link](https://drive.google.com/file/d/1-1b91ovZEEkQW1mI1OVQlVZnq9gieiyw/view?usp=sharing)
-Story Tableau -> [link](https://public.tableau.com/app/profile/fadhlan.auffar/viz/CapstoneProjectM2Fadhlan/CapstoneProjectStory?publish=yes)
 
-![DALL·E 2024-08-27 21.58.40 - A dynamic and vibrant night scene in the heart of Bangkok city, captured in ultra-high 4K detail. The street is bustling with activity, filled with a .png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6e386b82-3d73-40ce-9b8f-45e41e44616a/f18a02bb-e0a6-4b69-9781-ef2afa4d54c8/DALLE_2024-08-27_21.58.40_-_A_dynamic_and_vibrant_night_scene_in_the_heart_of_Bangkok_city_captured_in_ultra-high_4K_detail._The_street_is_bustling_with_activity_filled_with_a_.png)
+General Report -> [link](https://drive.google.com/file/d/1b8rNF1sc88NYUs8VNwSm-y3sitwwIji3/view?usp=sharing)
+
+Presentation Slide -> [link](https://drive.google.com/file/d/1-1b91ovZEEkQW1mI1OVQlVZnq9gieiyw/view?usp=sharing)
+
+Story Tableau -> [link](https://public.tableau.com/app/profile/fadhlan.auffar/viz/CapstoneProjectM2Fadhlan/CapstoneProjectStory?publish=yes)
 
 # Introduction
 Airbnb is a marketplace connecting hosts and guests. Hosts are individuals who provide accommodations, while guests are those who rent these accommodations. Airbnb's revenue comes from host fees and guest fees. Host fees are charged to hosts who have listed their properties and have them rented by guests. Guest fees are charged to guests who rent the accommodations.
