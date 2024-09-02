@@ -1,53 +1,42 @@
-# Airbnb Listing Data Analysis
-Capstone project ini bertujuan untuk melakukan data analisis terhadap dataset Airbnb Listing Bangkok
+![DALL·E 2024-08-27 21 58 40 - A dynamic and vibrant night scene in the heart of Bangkok city, captured in ultra-high 4K detail  The street is bustling with activity, filled with a ](https://github.com/user-attachments/assets/de12406c-3d25-4651-be7f-3e1c10f29700)
 
-- Story Tableau -> [link](https://public.tableau.com/app/profile/fadhlan.auffar/viz/CapstoneProjectM2Fadhlan/CapstoneProjectStory?publish=yes)
-- Presentasi -> [link](https://drive.google.com/drive/folders/1SxeOOUvlzRKSrtgGfH2vB0ogUR_-js4f?usp=sharing)
-- Distrik Bangkok Geojson -> [link](https://github.com/pcrete/gsvloader-demo/blob/master/geojson/Bangkok-districts.geojson)
+Technical Report -> [link](https://drive.google.com/file/d/1qpXoxjIiZv7kz7A_IWCw9HAVcY16zq8h/view?usp=sharing)
+General Report -> [link](https://drive.google.com/file/d/1b8rNF1sc88NYUs8VNwSm-y3sitwwIji3/view?usp=sharing)
+Presentation Slide -> [link](https://drive.google.com/file/d/1-1b91ovZEEkQW1mI1OVQlVZnq9gieiyw/view?usp=sharing)
+Story Tableau -> [link](https://public.tableau.com/app/profile/fadhlan.auffar/viz/CapstoneProjectM2Fadhlan/CapstoneProjectStory?publish=yes)
 
-# Business Understanding:
-Pendapatan Airbnb berasal dari geust fee serta host fee. Bisnis model yang dimiliki adalah asset-light business model, dimana tidak memiliki asset yang benyak, melainkan mendapatkan asset dari kerjasama dengan host
+![DALL·E 2024-08-27 21.58.40 - A dynamic and vibrant night scene in the heart of Bangkok city, captured in ultra-high 4K detail. The street is bustling with activity, filled with a .png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6e386b82-3d73-40ce-9b8f-45e41e44616a/f18a02bb-e0a6-4b69-9781-ef2afa4d54c8/DALLE_2024-08-27_21.58.40_-_A_dynamic_and_vibrant_night_scene_in_the_heart_of_Bangkok_city_captured_in_ultra-high_4K_detail._The_street_is_bustling_with_activity_filled_with_a_.png)
 
-- Permasalahan: Guest membuka web sendiri untuk proses penyewaan, sehingga transaksi terjadi di luar aplikasi yang menyebabkan potensi pendapatan berkurang. Ingin terus menambah jumlah hunian (asset) dan memanfaatkan daya tarik kota Bangkok
+# Introduction
+Airbnb is a marketplace connecting hosts and guests. Hosts are individuals who provide accommodations, while guests are those who rent these accommodations. Airbnb's revenue comes from host fees and guest fees. Host fees are charged to hosts who have listed their properties and have them rented by guests. Guest fees are charged to guests who rent the accommodations.
 
-- Tujuan: Mendapatkan insight host behaviour berdasarkan data hunian listing, sehingga dapat dipergunakan untuk membuat program yang lebih sesuai dengan karakteristik untuk bisa mempertahankan host atau mendapatkan potential host
+Airbnb operates with a flexible, asset-light business model, as it does not own the properties listed on its marketplace. Instead, these accommodations are owned by individuals who wish to rent them out (hosts). **This indicates that Airbnb's success relies on its ability to attract new hosts and retain existing ones.**
 
-- Bagaimana karakteristik host yang paling sesuai untuk dibuatkan program? Sehingga meminimalisr penggunaan sumber daya yang dimiliki.
+Probelem Statement:
+- Recently, many hosts have started creating their own websites to rent out their properties ([link](https://www.cnbc.com/2020/05/06/airbnb-hosts-are-building-their-own-direct-booking-websites-in-revolt.html)), bypassing Airbnb as the rental platform despite listing their properties on Airbnb. This trend is attributed to dissatisfaction with Airbnb's programs, resulting in a loss of potential revenue for the company.
+- Airbnb aims to continuously increase the number of properties listed on its app to sustain its business.
+- Airbnb plans to leverage Bangkok's appeal as a top tourist destination ([link](https://www.liputan6.com/lifestyle/read/4056210/bangkok-kembali-duduki-peringkat-pertama-kota-tujuan-turis-di-dunia)) to boost transactions on its platform.
 
-# Data Understanding
-Setiap baris data merepresentasikan data hunian yang di-listing oleh host
+Purpose:
+Therefore, Airbnb seeks insights into host behavior based on the characteristics of listed properties. This information can be used to develop new programs tailored to better retain existing hosts and attract potential new hosts.
 
-1. id = id unik untuk nama hunian
-1. name = nama hunian
-1. host_id = id unik untuk nama host
-1. host_name = nama host
-1. neighbourhood = daerah tempat airbnb (distrik)
-1. latitude = lokasi neighbourhood (WGS84)
-1. longitude = lokasi neighbourhood (WGS84)
-1. room_type = tipe airbnb, terdapat 4 tipe
-    * Entire home
-    * Private room
-    * Shared room
-    * Hotel
-1. price = harga sewa (baht)
-1. minimum_nights = kuantitas minimal untuk menginap 
-1. number_of_reviews = total jumlah riview yang dimiliki 
-1. last_reviws = tanggal review terakhir 
-1. reviews_per_month = jumlah review per bulan
-1. calculated_host_listing_count = jumlah kalkulasi airbnb yang dimiliki host
-1. availability_365 = ketersedian hari yang dapat disewa
-1. number_of_reviews_ltm = jumlah review dalam 12 bulan terakhir
+## Data Overview
+This dataset contains information about the characteristics of properties listed by Airbnb hosts in Bangkok, with each row representing a property listed by a host.
 
-# Data Preparation
-Proses yang dilakukan adalah memanipulasi data sehingga kualitas data menjadi lebih baik. Beberapa proses yang dilakukan adalah menanggulangi missing value dengan default value serta mengubah tipe data.
-
-# Data Analysis
-Menganilis data dengan beberapa domain pendekatan, diantaranya adalah wilayah, harga, dan jumlah listing. Memvisualisasikan data, serta menarik kesimpulan berdasarkan temuan analisis.
-
-# Insight 
-Salah satu insight yang ditemukan adalah bahwa sebaran hunian Airbnb hanya cenderung terpusat pada wilayah Bangkok Tengah
-
-# Rekomendasi 
-Dapat memperoleh potential host pada distrik di wilayah pinggiran bangkok karena daya saing yang masih rendah dan untuk membuat pernyebaran hunian lebih melebar.
-
-Lengkapnya dapat dilihat pada notebook yang tersedia.
+Feature:
+1. id = unique identifier for the property
+2. name = property name
+3. host_id = unique identifier for the host
+4. host_name = host name
+5. neighbourhood = district where the Airbnb is located
+6. latitude = neighbourhood location
+7. longitude = neighbourhood location
+8. room_type = type of Airbnb (Entire home, Private room,Shared room, Hotel)
+9. price = rental price (baht)
+10. minimum_nights = minimum stay requirement
+11. number_of_reviews = total number of reviews received
+12. last_reviws = date of the last review
+13. reviews_per_month = number of reviews per month
+14. calculated_host_listing_count = total number of properties listed by the host
+15. availability_365 = number of days the property is available for rent in a year
+16. number_of_reviews_ltm = number of reviews in the last 12 months
