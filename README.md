@@ -21,7 +21,7 @@ Probelem Statement:
 Purpose:
 Therefore, Airbnb seeks insights into host behavior based on the characteristics of listed properties. This information can be used to develop new programs tailored to better retain existing hosts and attract potential new hosts.
 
-## Data Overview
+# Data Overview
 This dataset contains information about the characteristics of properties listed by Airbnb hosts in Bangkok. The dataset consists of 15,854 Airbnb listings in Bangkok, with 16 variables capturing various property details, with each row representing a property listed by a host.
 
 Feature:
@@ -43,7 +43,7 @@ Feature:
 16. number_of_reviews_ltm = number of reviews in the last 12 months
 
 
-## Executive Summary
+# Executive Summary
 - Host Analysis:
   
   1. Individual Hosts (81.6%): Manage 1-2 properties.
