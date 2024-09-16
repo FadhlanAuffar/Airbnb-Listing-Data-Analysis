@@ -25,23 +25,24 @@ Therefore, Airbnb seeks insights into host behavior based on the characteristics
 This dataset contains information about the characteristics of properties listed by Airbnb hosts in Bangkok. The dataset consists of 15,854 Airbnb listings in Bangkok, with 16 variables capturing various property details, with each row representing a property listed by a host.
 
 Feature:
-1. id = unique identifier for the property
-2. name = property name
-3. host_id = unique identifier for the host
-4. host_name = host name
-5. neighbourhood = district where the Airbnb is located
-6. latitude = neighbourhood location
-7. longitude = neighbourhood location
-8. room_type = type of Airbnb (Entire home, Private room,Shared room, Hotel)
-9. price = rental price (baht)
-10. minimum_nights = minimum stay requirement
-11. number_of_reviews = total number of reviews received
-12. last_reviws = date of the last review
-13. reviews_per_month = number of reviews per month
-14. calculated_host_listing_count = total number of properties listed by the host
-15. availability_365 = number of days the property is available for rent in a year
-16. number_of_reviews_ltm = number of reviews in the last 12 months
-
+| No. | Feature                            | Description                                                            |
+|-----|------------------------------------|------------------------------------------------------------------------|
+| 1   | `id`                               | Unique identifier for the property                                     |
+| 2   | `name`                             | Property name                                                          |
+| 3   | `host_id`                          | Unique identifier for the host                                         |
+| 4   | `host_name`                        | Host name                                                              |
+| 5   | `neighbourhood`                    | District where the Airbnb is located                                   |
+| 6   | `latitude`                         | Latitude of the neighbourhood location                                 |
+| 7   | `longitude`                        | Longitude of the neighbourhood location                                |
+| 8   | `room_type`                        | Type of Airbnb (Entire home, Private room, Shared room, Hotel)         |
+| 9   | `price`                            | Rental price (in baht)                                                 |
+| 10  | `minimum_nights`                   | Minimum stay requirement                                               |
+| 11  | `number_of_reviews`                | Total number of reviews received                                       |
+| 12  | `last_reviews`                     | Date of the last review                                                |
+| 13  | `reviews_per_month`                | Number of reviews per month                                            |
+| 14  | `calculated_host_listing_count`    | Total number of properties listed by the host                          |
+| 15  | `availability_365`                 | Number of days the property is available for rent in a year            |
+| 16  | `number_of_reviews_ltm`            | Number of reviews in the last 12 months                                |
 
 # Executive Summary
 - Host Analysis:
