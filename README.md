@@ -43,9 +43,10 @@ Feature:
 
 ## Executive Summary
 - Host Analysis:
-Individual Hosts (81.6%): Manage 1-2 properties.
-Semi-Professional Hosts (15.4%): Manage 3-10 properties.
-Professional Hosts (3%): Manage 11 or more properties.
+  
+  1. Individual Hosts (81.6%): Manage 1-2 properties.
+  2. Semi-Professional Hosts (15.4%): Manage 3-10 properties.
+  3. Professional Hosts (3%): Manage 11 or more properties.
 
 Recommendations:
 Support Individual Hosts: Develop tools like pricing calculators and communication templates.
@@ -53,6 +54,7 @@ Encourage Growth for Semi-Professional Hosts: Provide incentives and mentorship 
 Provide Tools for Professional Hosts: Offer advanced tools like bulk management and property integration.
 
 - Geographical Insights:
+  
 Listings are concentrated in central districts like Vadhana and Khlong Toei, with potential for growth in less popular districts.
 High rental prices in districts with few listings suggest exclusivity, while areas with lower availability indicate high demand.
 
@@ -62,15 +64,16 @@ Leverage High-Priced Districts: Highlight unique features to justify rates and o
 Implement Dynamic Pricing: Encourage hosts to adjust availability and rates according to demand.
 
 - Room Type Analysis:
+  
 Entire Homes/Apartments (56.2%): High demand, lowest availability, preferred by families/groups.
 Private Rooms (36.4%): Cater to budget-conscious or solo travelers.
 Hotel Rooms (4.1%) and Shared Rooms (3.3%): Target specific segments like budget travelers or those seeking social experiences.
 
 Recommendations:
-Promote Entire Homes/Apartments: Especially during peak seasons.
-Support Private Room Hosts: Position as a budget-friendly alternative.
-Expand Hotel Room Partnerships: Attract hotel-loyal guests.
-Market Shared Rooms: Emphasize cost savings and social opportunities.
+  1. Promote Entire Homes/Apartments: Especially during peak seasons.
+  2. Support Private Room Hosts: Position as a budget-friendly alternative.
+  3. Expand Hotel Room Partnerships: Attract hotel-loyal guests.
+  4. Market Shared Rooms: Emphasize cost savings and social opportunities.
 
 Conclusion: To sustain and grow its market presence in Bangkok, Airbnb should focus on enhancing host support, strategically targeting high-demand areas, and optimizing pricing strategies to meet diverse traveler needs.
 
