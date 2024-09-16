@@ -1,5 +1,3 @@
-![DALL·E 2024-08-27 21 58 40 - A dynamic and vibrant night scene in the heart of Bangkok city, captured in ultra-high 4K detail  The street is bustling with activity, filled with a ](https://github.com/user-attachments/assets/de12406c-3d25-4651-be7f-3e1c10f29700)
-
 Technical Report -> [link](https://drive.google.com/file/d/1qpXoxjIiZv7kz7A_IWCw9HAVcY16zq8h/view?usp=sharing)
 
 General Report -> [link](https://drive.google.com/file/d/1b8rNF1sc88NYUs8VNwSm-y3sitwwIji3/view?usp=sharing)
@@ -8,7 +6,7 @@ Presentation Slide -> [link](https://drive.google.com/file/d/1-1b91ovZEEkQW1mI1O
 
 Dashboard Tableau -> [link](https://public.tableau.com/app/profile/fadhlan.auffar/viz/AirbnbListingAnalysis_17253312519050/Dashboard1?publish=yes)
 
-# Introduction
+# Project Background
 Airbnb is a marketplace connecting hosts and guests. Hosts are individuals who provide accommodations, while guests are those who rent these accommodations. Airbnb's revenue comes from host fees and guest fees. Host fees are charged to hosts who have listed their properties and have them rented by guests. Guest fees are charged to guests who rent the accommodations.
 
 Airbnb operates with a flexible, asset-light business model, as it does not own the properties listed on its marketplace. Instead, these accommodations are owned by individuals who wish to rent them out (hosts). **This indicates that Airbnb's success relies on its ability to attract new hosts and retain existing ones.**
@@ -22,7 +20,7 @@ Purpose:
 Therefore, Airbnb seeks insights into host behavior based on the characteristics of listed properties. This information can be used to develop new programs tailored to better retain existing hosts and attract potential new hosts.
 
 ## Data Overview
-This dataset contains information about the characteristics of properties listed by Airbnb hosts in Bangkok, with each row representing a property listed by a host.
+This dataset contains information about the characteristics of properties listed by Airbnb hosts in Bangkok. The dataset consists of 15,854 Airbnb listings in Bangkok, with 16 variables capturing various property details, with each row representing a property listed by a host.
 
 Feature:
 1. id = unique identifier for the property
@@ -41,3 +39,43 @@ Feature:
 14. calculated_host_listing_count = total number of properties listed by the host
 15. availability_365 = number of days the property is available for rent in a year
 16. number_of_reviews_ltm = number of reviews in the last 12 months
+
+
+## Executive Summary
+- Host Analysis:
+Individual Hosts (81.6%): Manage 1-2 properties.
+Semi-Professional Hosts (15.4%): Manage 3-10 properties.
+Professional Hosts (3%): Manage 11 or more properties.
+
+Recommendations:
+Support Individual Hosts: Develop tools like pricing calculators and communication templates.
+Encourage Growth for Semi-Professional Hosts: Provide incentives and mentorship programs.
+Provide Tools for Professional Hosts: Offer advanced tools like bulk management and property integration.
+
+- Geographical Insights:
+Listings are concentrated in central districts like Vadhana and Khlong Toei, with potential for growth in less popular districts.
+High rental prices in districts with few listings suggest exclusivity, while areas with lower availability indicate high demand.
+
+Recommendations:
+Focus on Popular Districts: Enhance listing quality in key districts and explore growth in emerging areas.
+Leverage High-Priced Districts: Highlight unique features to justify rates and offer budget-friendly options in lower-priced areas.
+Implement Dynamic Pricing: Encourage hosts to adjust availability and rates according to demand.
+
+- Room Type Analysis:
+Entire Homes/Apartments (56.2%): High demand, lowest availability, preferred by families/groups.
+Private Rooms (36.4%): Cater to budget-conscious or solo travelers.
+Hotel Rooms (4.1%) and Shared Rooms (3.3%): Target specific segments like budget travelers or those seeking social experiences.
+
+Recommendations:
+Promote Entire Homes/Apartments: Especially during peak seasons.
+Support Private Room Hosts: Position as a budget-friendly alternative.
+Expand Hotel Room Partnerships: Attract hotel-loyal guests.
+Market Shared Rooms: Emphasize cost savings and social opportunities.
+
+Conclusion: To sustain and grow its market presence in Bangkok, Airbnb should focus on enhancing host support, strategically targeting high-demand areas, and optimizing pricing strategies to meet diverse traveler needs.
+
+
+
+
+
+
