@@ -1,10 +1,10 @@
-Technical Report -> [link](https://drive.google.com/file/d/1qpXoxjIiZv7kz7A_IWCw9HAVcY16zq8h/view?usp=sharing)
+Technical Report -> [Click here!](https://drive.google.com/file/d/1qpXoxjIiZv7kz7A_IWCw9HAVcY16zq8h/view?usp=sharing)
 
-General Report -> [link](https://drive.google.com/file/d/1b8rNF1sc88NYUs8VNwSm-y3sitwwIji3/view?usp=sharing)
+General Report -> [Click here!](https://drive.google.com/file/d/1b8rNF1sc88NYUs8VNwSm-y3sitwwIji3/view?usp=sharing)
 
-Presentation Slide -> [link](https://drive.google.com/file/d/1-1b91ovZEEkQW1mI1OVQlVZnq9gieiyw/view?usp=sharing)
+Presentation Slide -> [Click here!](https://drive.google.com/file/d/1-1b91ovZEEkQW1mI1OVQlVZnq9gieiyw/view?usp=sharing)
 
-Dashboard Tableau -> [link](https://public.tableau.com/app/profile/fadhlan.auffar/viz/AirbnbListingAnalysis_17253312519050/Dashboard1?publish=yes)
+Dashboard Tableau -> [Click here!](https://public.tableau.com/app/profile/fadhlan.auffar/viz/AirbnbListingAnalysis_17253312519050/Dashboard1?publish=yes)
 
 # Project Background
 Airbnb is a marketplace connecting hosts and guests. Hosts are individuals who provide accommodations, while guests are those who rent these accommodations. Airbnb's revenue comes from host fees and guest fees. Host fees are charged to hosts who have listed their properties and have them rented by guests. Guest fees are charged to guests who rent the accommodations.
