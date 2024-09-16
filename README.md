@@ -1,4 +1,4 @@
-![DA![DALL·E 2024-08-27 21 58 40 - A dynamic and vibrant night scene in the heart of Bangkok city, captured in ultra-high 4K detail  The street is bustling with activity, filled with a ](https://github.com/user-attachments/assets/c502b0d6-e556-445e-9c96-8ce1a72eed38)
+![DALL·E 2024-08-27 21 58 40 - A dynamic and vibrant night scene in the heart of Bangkok city, captured in ultra-high 4K detail  The street is bustling with activity, filled with a ](https://github.com/user-attachments/assets/8c8a8cbf-3e5f-4772-a158-8b94f4d4b650)
 
 Technical Report -> [Click here!](https://drive.google.com/file/d/1qpXoxjIiZv7kz7A_IWCw9HAVcY16zq8h/view?usp=sharing)
 
