@@ -48,28 +48,28 @@ Feature:
   2. Semi-Professional Hosts (15.4%): Manage 3-10 properties.
   3. Professional Hosts (3%): Manage 11 or more properties.
 
-Recommendations:
-Support Individual Hosts: Develop tools like pricing calculators and communication templates.
-Encourage Growth for Semi-Professional Hosts: Provide incentives and mentorship programs.
-Provide Tools for Professional Hosts: Offer advanced tools like bulk management and property integration.
+  Recommendations:
+  1. Support Individual Hosts, Develop tools like pricing calculators and communication templates.
+  2. Encourage Growth for Semi-Professional Hosts, Provide incentives and mentorship programs.
+  3. Provide Tools for Professional Hosts: Offer advanced tools like bulk management and property integration.
 
 - Geographical Insights:
   
-Listings are concentrated in central districts like Vadhana and Khlong Toei, with potential for growth in less popular districts.
-High rental prices in districts with few listings suggest exclusivity, while areas with lower availability indicate high demand.
+  Listings are concentrated in central districts like Vadhana and Khlong Toei, with potential for growth in less popular districts.
+  High rental prices in districts with few listings suggest exclusivity, while areas with lower availability indicate high demand.
 
-Recommendations:
-Focus on Popular Districts: Enhance listing quality in key districts and explore growth in emerging areas.
-Leverage High-Priced Districts: Highlight unique features to justify rates and offer budget-friendly options in lower-priced areas.
-Implement Dynamic Pricing: Encourage hosts to adjust availability and rates according to demand.
+  Recommendations:
+  1. Focus on Popular Districts: Enhance listing quality in key districts and explore growth in emerging areas.
+  2. Leverage High-Priced Districts: Highlight unique features to justify rates and offer budget-friendly options in lower-priced areas.
+  3. Implement Dynamic Pricing: Encourage hosts to adjust availability and rates according to demand.
 
 - Room Type Analysis:
   
-Entire Homes/Apartments (56.2%): High demand, lowest availability, preferred by families/groups.
-Private Rooms (36.4%): Cater to budget-conscious or solo travelers.
-Hotel Rooms (4.1%) and Shared Rooms (3.3%): Target specific segments like budget travelers or those seeking social experiences.
-
-Recommendations:
+  1. Entire Homes/Apartments (56.2%): High demand, lowest availability, preferred by families/groups.
+  2. Private Rooms (36.4%): Cater to budget-conscious or solo travelers.
+  3. Hotel Rooms (4.1%) and Shared Rooms (3.3%): Target specific segments like budget travelers or those seeking social experiences.
+  
+  Recommendations:
   1. Promote Entire Homes/Apartments: Especially during peak seasons.
   2. Support Private Room Hosts: Position as a budget-friendly alternative.
   3. Expand Hotel Room Partnerships: Attract hotel-loyal guests.
